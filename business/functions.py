@@ -15,8 +15,8 @@ def sendWhatsAppMessage(phoneNumber, message):
     return ans
 
 
-phoneNumber = "917249222539"
-message = "Hello there, \n This is our first message to you from our django application. \n Regards, \n Team CareChatBot"
+# phoneNumber = "917249222539"
+# message = "Hello there, \n This is our first message to you from our django application. \n Regards, \n Team CareChatBot"
 
 
-sendWhatsAppMessage(phoneNumber, message)
+# sendWhatsAppMessage(phoneNumber, message)
